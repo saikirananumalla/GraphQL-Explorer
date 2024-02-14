@@ -1,0 +1,10 @@
+{
+  "name": "graphQLExplorer",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "dependencies": {
+    "@apollo/server": "^4.10.0",
+    "graphql": "^16.8.1"
+  }
+}
